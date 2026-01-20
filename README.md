@@ -21,5 +21,5 @@ I recently launched **Studyly**, a productivity engine built with React. It feat
 ---
 
 ## 📈 Current Focus
-- ⚡ Refining my **Next.js** Server Components knowledge.
-- 🔐 Implementing secure Auth and Realtime DB features using **Supabase**.
+- ⚡ Refining my **Frontend and backend** Server Components knowledge.
+- 🔐 Creating real life solutions to real world problems 
