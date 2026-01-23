@@ -4,8 +4,8 @@
 I specialize in creating fast, aesthetic, and scalable tools that solve real-world problems.
 
 [![](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/redwan-jaeffer-a0627a2a3) 
-[![](https://img.shields.io/badge/QUR'AN_APP-LIVE-D4AF37?style=for-the-badge&logo=vercel&logoColor=white)](https://next-gen-quran-hifdh-app.vercel.app/)
-[![](https://img.shields.io/badge/STUDYLY-LIVE-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://studyly-app.vercel.app)
+[![](https://img.shields.io/badge/QUR'AN_&_HIFDH-D4AF37?style=for-the-badge&logo=vercel&logoColor=white)](https://next-gen-quran-hifdh-app.vercel.app/)
+[![](https://img.shields.io/badge/STUDYLY-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://studyly-app.vercel.app)
 
 ---
 
