@@ -4,7 +4,8 @@
 I specialize in creating fast, aesthetic, and scalable tools that solve real-world problems.
 
 [![](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/redwan-jaeffer-a0627a2a3) 
-[![](https://img.shields.io/badge/LIVE_PROJECTS-000000?style=for-the-badge&logo=vercel&logoColor=white)](#-featured-projects)
+[![](https://img.shields.io/badge/QUR'AN_APP-LIVE-D4AF37?style=for-the-badge&logo=vercel&logoColor=white)](https://next-gen-quran-hifdh-app.vercel.app/)
+[![](https://img.shields.io/badge/STUDYLY-LIVE-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://studyly-app.vercel.app)
 
 ---
 
@@ -31,7 +32,7 @@ A high-speed productivity engine built for modern students. Features a command-c
 ## 📈 Current Focus
 - 🕋 **Spiritual Tech:** Enhancing user experiences for Islamic educational tools.
 - ⚡ **Performance:** Mastering Next.js Server Components and advanced caching.
-- 🔐 **Solutions:** Crafting real-world applications that merge faith, focus, and functionality.
+- 🔐 **Solutions:** Crafting real-world applications to real-world problems.
 
 ---
 
