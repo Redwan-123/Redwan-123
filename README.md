@@ -19,7 +19,7 @@ I specialize in creating fast, aesthetic, and scalable tools that solve real-wor
 
 ## 🛠️ Featured Projects
 
-### 🎯 **InternAI** ⭐ Flagship Project
+### 🎯 **InternAI** 
 An intelligent career platform that streamlines the internship application process. Features real-time application tracking, AI-powered job matching, secure OAuth authentication (Google, GitHub, LinkedIn), and a modern dashboard for career management. Built with React 19, TanStack Router, and Supabase.
 Features: Smart job matching, application tracker, CV management, live match feeds, secure OAuth
 [**View Live Demo**](https://ai-career-pilot-74-redwan-jaeffers-projects.vercel.app/) | [**View Code**](https://github.com/Redwan-123/ai-career-pilot-74)
