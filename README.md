@@ -2,7 +2,7 @@
 
 <p align="left">
   <a href="https://redwans-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20PORTFOLIO%20WEBSITE-👉%20CLICK%20HERE%20TO%20VIEW%20👈-00E676?style=for-the-badge&logo=vercel&logoColor=white" height="40" alt="Visit Portfolio"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=5000&color=00E676&background=1A1A1A00&vCenter=true&width=450&height=50&lines=🌐+Visit+My+Portfolio:+Redwan.net" alt="Redwan.net Portfolio" />
   </a>
 </p>
 
