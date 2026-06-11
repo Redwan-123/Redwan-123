@@ -1,20 +1,11 @@
 # Hi, I'm Redwan 👋
 
-# Hi, I'm Redwan 👋 
-
 <p align="left">
   <a href="https://redwans-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐%20PORTFOLIO%20WEBSITE-👉%20CLICK%20HERE%20TO%20VIEW%20👈-00E676?style=for-the-badge&logo=vercel&logoColor=white" height="40" alt="Visit Portfolio"/>
   </a>
 </p>
 
-## Full-Stack Developer | Building Purposeful, High-Performance Web Applications
-
-I specialize in creating fast, aesthetic, and scalable tools that solve real-world problems.
-
-[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME) 
-[![INTERNAI](https://img.shields.io/badge/INTERNAI-purple?style=for-the-badge)](https://internai2026rj.vercel.app) 
-[![STUDYLY](https://img.shields.io/badge/STUDYLY-black?style=for-the-badge)](https://github.com/Redwan-123/studyly)
 ### Full-Stack Developer | Building Purposeful, High-Performance Web Applications
 I specialize in creating fast, aesthetic, and scalable tools that solve real-world problems.
 
